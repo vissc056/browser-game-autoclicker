@@ -8,7 +8,7 @@ Browser-specific versions are provided for **Microsoft Edge** and **Google Chrom
 ## Features
 - **F7**: Select a number and repeatedly perform number + number + click
 - **F8**: Select a number and repeatedly perform number + click
-- **F9**: Click-only cycle
+- **F9**: Select a number and cycle through click modes
   - 1st press: 1-action mode
   - 2nd press: 5-action mode
   - 3rd press: stop
@@ -18,8 +18,8 @@ Browser-specific versions are provided for **Microsoft Edge** and **Google Chrom
 The hotkeys are restricted to the supported browser.
 
 ## Versions
-- Microsoft Edge: `autoclicker-edge.ahk`
-- Google Chrome: `autoclicker-chrome.ahk`
+- [Microsoft Edge version](autoclicker-edge.ahk)
+- [Google Chrome](autoclicker-chrome.ahk)
 
 ## Requirements
 - Windows
@@ -27,7 +27,7 @@ The hotkeys are restricted to the supported browser.
 
 ## Usage
 1. Download the version corresponding to your browser.
-2. Run the `.ahk` script with AutoHotkey.
+2. Run the `.ahk` script with [AutoHotkey](https://www.autohotkey.com/).
 3. Open the browser game you want to use it with.
 4. Use **F7**, **F8**, or **F9** to activate the desired mode.
 5. Press **F10** to stop all automation.
